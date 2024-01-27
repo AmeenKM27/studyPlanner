@@ -1,0 +1,15 @@
+.homepage {
+  text-align: left;
+}
+.homeicon {
+  display: inline-flex;
+}
+#text {
+  padding-left: 10px;
+}
+#homecon {
+  padding-top: 5px;
+}
+.preficon {
+  display: flex;
+}
